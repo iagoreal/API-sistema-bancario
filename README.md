@@ -1,4 +1,4 @@
-![]([https://i.imgur.com/xG74tOh.png](https://static.wixstatic.com/media/e31b1c_393ad455319e4933a243e6a9b3f22b53~mv2.gif))
+![]([https://static.wixstatic.com/media/e31b1c_393ad455319e4933a243e6a9b3f22b53~mv2.gif])
 
 Minha tarefa como desenvolvedor foi criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
 
