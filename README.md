@@ -1,6 +1,6 @@
-![]([https://static.wixstatic.com/media/e31b1c_393ad455319e4933a243e6a9b3f22b53~mv2.gif])
+![](https://portal.fgv.br/sites/portal.fgv.br/files/styles/noticia_geral/public/noticias/11/21/bancos-inovacao.jpg?itok=J_PdPo_2)
 
-Minha tarefa como desenvolvedor foi criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
+Minha tarefa neste projeto como desenvolvedor foi criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades poderão ser implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
 
 Meu papel foi construir uma RESTful API que permita:
 
@@ -15,6 +15,13 @@ Meu papel foi construir uma RESTful API que permita:
 -   Emitir extrato bancário
 
 Obs: os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`. **Todas as transações e contas bancárias deverão ser inseridas dentro deste objeto, seguindo a estrutura que já existe.**
+
+## Pré-requisitos para rodar o sistema
+
+### Essencial: biblioteca express.
+
+### Opcional: nodemon e insomnia.
+
 
 ## Endpoints
 
@@ -87,4 +94,4 @@ Esse endpoint retorna o saldo de uma conta bancária.
 Esse endpoint lista as transações realizadas de uma conta específica.
 
 
-###### tags: `back-end` `módulo 2` `nodeJS` `API REST` `desafio`
+
