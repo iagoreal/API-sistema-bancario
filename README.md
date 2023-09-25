@@ -14,8 +14,6 @@ Meu papel foi construir uma RESTful API que permita:
 -   Consultar saldo da conta bancária
 -   Emitir extrato bancário
 
-Obs: os dados serão persistidos em memória, no objeto existente dentro do arquivo `bancodedados.js`. **Todas as transações e contas bancárias deverão ser inseridas dentro deste objeto, seguindo a estrutura que já existe.**
-
 ## Pré-requisitos para rodar o sistema
 
 ### Essencial: biblioteca express.
